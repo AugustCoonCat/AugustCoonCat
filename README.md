@@ -24,6 +24,4 @@ React • TypeScript • JavaScript • Redux Toolkit • SCSS • Tailwind • 
 
 ---
 
-### 📫 Контакты
-📧 [Email](mailto:misha.yakovlev1755@gmail.com)  
-💬 Telegram: (https://t.me/King_Lion17)
+
