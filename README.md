@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет, я Михаил — Frontend-разработчик
 
-<!--
-**AugustCoonCat/AugustCoonCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Создаю современные интерфейсы на **React + TypeScript**.  
+Люблю чистый код, продуманный UX и визуально приятные проекты.
 
-Here are some ideas to get you started:
+### 🚀 Pet-проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍕 [React-Pizza](https://github.com/AugustCoonCat/React-Pizza) — SPA для онлайн-заказа пиццы.  
+  Каталог, фильтрация, сортировка, корзина, оформление заказа.  
+  **Стек:** React, TypeScript, Redux Toolkit, SCSS, React Router.
+
+- 🔥 [GriGri](https://github.com/AugustCoonCat/GriGri) — сайт компании по продаже печей.  
+  Адаптивная верстка, каталог, форма обратной связи.  
+  **Стек:** HTML5, CSS3, JS.
+
+- 🖼 [NFT](https://github.com/AugustCoonCat/NFT) — сайт с карточками NFT, профилями и статистикой продаж.  
+  **Стек:** HTML, CSS3, JavaScript (ES6+).
+
+---
+
+### 🧩 Технологии
+
+React • TypeScript • JavaScript • Redux Toolkit • SCSS • Tailwind • Chakra UI • Git • HTML5 • CSS3
+
+---
+
+### 📫 Контакты
+📧 [Email](mailto:misha.yakovlev1755@gmail.com)  
+💬 Telegram: (https://t.me/King_Lion17)
