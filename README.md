@@ -8,6 +8,7 @@
 
 - 🐾 [Coongram](https://github.com/AugustCoonCat/Coongram) — интерактивная социальная платформа для животных.  
   Лента постов, лайки, аутентификация, поиск публикаций
+  
   **Стек:** React, TypeScript, Vite, Appwrite, Tailwind.
 
 - 🍕 [React-Pizza](https://github.com/AugustCoonCat/React-Pizza) — SPA для онлайн-заказа пиццы.  
